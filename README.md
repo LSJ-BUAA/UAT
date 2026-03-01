@@ -4,7 +4,7 @@
 
 This repository provides the simulation code of the following submitted paper.
 
-> Shengjie Liu and Chenyang Yang, "Enhancing Out-of-Distribution Generalization in Learning Wireless Resource Allocation via Unsupervised Adversarial Training," submitted, 2026.
+> Shengjie Liu and Chenyang Yang, "Robust Unsupervised Learning for Wireless Resource Allocation Under Channel Distribution Shift," submitted, 2026.
 
 ## Usage
 
