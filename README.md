@@ -4,7 +4,7 @@
 
 This repository provides the simulation code of the following paper.
 
-> Shengjie Liu and Chenyang Yang, "Robust Unsupervised Learning for Wireless Resource Allocation Under Channel Distribution Shift," vol. 4, pp. 1569-1587, 2026.
+> Shengjie Liu and Chenyang Yang, "Robust Unsupervised Learning for Wireless Resource Allocation Under Channel Distribution Shift," *IEEE Transactions on Machine Learning in Communications and Networking*, vol. 4, pp. 1569-1587, 2026.
 
 ## Usage
 
